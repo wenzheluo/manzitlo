@@ -1,16 +1,26 @@
-### Hi there 👋
+###  Hello BODY, welcome to my world... 👍
 
-<!--
-**manzitlo/manzitlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focusing on FULL STACK development~ !
 
-Here are some ideas to get you started:
+![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/100318920/197442861-8d8ec35f-5a96-468f-8790-92e14fb6cdc8.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🗣️ Coding Language I get
+
+- 👌  C++/C
+- 👌  Python
+- 👌  Javascript
+
+
+## 🚩 What I am doing
+
+
+- 🏅 Focusing on FULL STACK development (working at [**MEETFOOD**](https://meetfood.us/) team)
+- 📌 Using Machine Learning Embedded system for Person Detection
+- 💻 Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications (based on **getstream.io**)
+
+
+## 📢 How to reach me
+
+- Instagram [@manzitlo](https://www.instagram.com/manzitlo/)
+- Email [OnClick Here](mailto:hellolwz1120@gmail.com)
