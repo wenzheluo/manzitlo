@@ -23,4 +23,4 @@ I'm focusing on FULL STACK development~ !
 ## 📢 How to reach me
 
 - Instagram [@manzitlo](https://www.instagram.com/manzitlo/)
-- Email [OnClick Here](mailto:hellolwz1120@gmail.com)
+- Email me [OnClick Here](mailto:hellolwz1120@gmail.com)
