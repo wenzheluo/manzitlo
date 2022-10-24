@@ -1,4 +1,4 @@
-###  Hello BODY, welcome to my world... 👍
+###  Hello buddy, welcome to my world... 👍
 
 I'm focusing on FULL STACK development~ !
 
