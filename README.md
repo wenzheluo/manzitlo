@@ -7,7 +7,8 @@ I'm focusing on FULL STACK development~ !
 
 ## 🗣️ Coding Language I get
 
-- 👌  C++/C
+- 👌  C++
+- 👌  Java
 - 👌  Python
 - 👌  Javascript
 
