@@ -1,6 +1,6 @@
 ###  Hello buddy, welcome to my world... 👍
 
-I'm focusing on FULL STACK development~ !
+I'm focusing on FULL STACK development~!
 
 ![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/100318920/197442861-8d8ec35f-5a96-468f-8790-92e14fb6cdc8.gif)
 
@@ -16,8 +16,8 @@ I'm focusing on FULL STACK development~ !
 ## 🚩 What I am doing
 
 
-- 🏅 Focusing on FULL STACK development (working at [**MEETFOOD**](https://meetfood.us/) team)
-- 📌 Using Machine Learning Embedded system for Person Detection
+- 🏅 Focusing on FULL STACK development (working at [**Overture LLC**] team)
+- 📌 Using Machine Learning Embedded System (NVIDIA Jetson Nano) for Person Detection
 - 💻 Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications (based on **getstream.io**)
 
 
