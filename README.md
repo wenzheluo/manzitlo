@@ -33,7 +33,7 @@ Hello! I'm a passionate **Full Stack Developer** with a penchant for diving deep
 
 - 🚗💨 **Full-Stack Drive**: Delve into my [**Car Insurance Statistic Project**](https://github.com/manzitlo/Ascending_Project). It stands as a testament to a holistic approach to car insurance stats.
 
-- 🌆 **Overture Innovations**: I wear my badge of being a part of the [**Overture LLC**](#) team with pride. Together, we are reimagining Full Stack Development.
+- 🌆 **Overture Innovations**: I wear my badge of being a part of the [**Overture LLC**] team with pride. Together, we are reimagining Full Stack Development.
 
 - 🤖👀 **AI Vision**: My experiments with the **NVIDIA Jetson Nano** revolve around avant-garde person detection techniques, all thanks to Embedded Machine Learning.
 
